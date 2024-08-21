@@ -1,9 +1,6 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://github.com/abhishek2s)
 
 <h1 align="center">Hi 👋, I'm ABHISHEK SINGH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w625">
+<h3 align="center">I'm a self motivated and ambitious B.Tech CSE student, Constantly honing my skills and seeking new opportunities to grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek2s&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek2s" /> </p>
 
@@ -12,14 +9,16 @@
 <p align="left"> <a href="https://twitter.com/codabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/codabhishek?logo=twitter&style=for-the-badge" alt="codabhishek" /></a> </p>
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🤔**I’m looking for help with good resources on React**
 
 - 💬 Ask me about **C, JAVA, JAVASCRIPT, REACT**
+- 😄 Pronouns: He/Him
 
 - 📫 How to reach me **abhiwork2026@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12ZA9DVfCBjM7piE-vVFwCb6dyE1yrB-K/view](https://drive.google.com/file/d/12ZA9DVfCBjM7piE-vVFwCb6dyE1yrB-K/view)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am funny😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
