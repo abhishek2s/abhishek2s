@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932"
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w625">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek2s&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek2s" /> </p>
 
