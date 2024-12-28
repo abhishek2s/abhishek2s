@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek2s" alt="abhishek2s" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/codabhishek?logo=twitter&style=for-the-badge" alt="codabhishek" /></a> </p>
+<p align="left"> <a href="https://x.com/AbhishekTechhub" target="blank"><img src="https://img.shields.io/twitter/follow/codabhishek?logo=twitter&style=for-the-badge" alt="codabhishek" /></a> </p>
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 - 🤔**I’m looking for help with good resources on React**
