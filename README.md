@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AbhishekTechhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="AbhishekTechhub" height="30" width="40" /></a>
+<a href="https://x.com/abhisheksngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="AbhishekTechhub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhisheksinghtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksinghtech" height="30" width="40" /></a>
 <a href="https://instagram.com/hey.abhisheks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisheks" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_abhishek_164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_abhishek_164" height="30" width="40" /></a>
